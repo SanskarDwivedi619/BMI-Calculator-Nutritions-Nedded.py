@@ -1,8 +1,6 @@
 from tkinter import*
 from tkinter import messagebox
 
-
-
 root = Tk()
 root.geometry("1750x790+0+0")
 root.resizable(0,0)
